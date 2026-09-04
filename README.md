@@ -10,6 +10,7 @@ week and follow the README inside it.
 | Date | Lab | Topic | Folder |
 |---|---|---|---|
 | Aug 28 | 1 | Getting set up — GitHub, Python, editor, Gradescope | [`lab01/`](lab01/) |
+| Sep 4 | 2 | Caffeine in the bloodstream — formulas, variables, output, `math` | [`lab02/`](lab02/) |
 
 More labs appear here through the semester.
 
