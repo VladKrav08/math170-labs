@@ -12,6 +12,7 @@ week and follow the README inside it.
 | Aug 28 | 1 | Getting set up — GitHub, Python, editor, Gradescope | [`lab01/`](lab01/) |
 | Sep 4 | 2 | Caffeine in the bloodstream — formulas, variables, output, `math` | [`lab02/`](lab02/) |
 | Sep 11 | 3 | Building a half-marathon plan — loops, Booleans, lists, round-off | [`lab03/`](lab03/) |
+| Sep 18 | 4 | A month of weather — list copies, `for`, comprehensions, `zip`, nested lists, slicing, tuples | [`lab04/`](lab04/) |
 
 More labs appear here through the semester.
 
