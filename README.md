@@ -13,23 +13,26 @@ week and follow the README inside it.
 | Sep 4 | 2 | Caffeine in the bloodstream — formulas, variables, output, `math` | [`lab02/`](lab02/) |
 | Sep 11 | 3 | Building a half-marathon plan — loops, Booleans, lists, round-off | [`lab03/`](lab03/) |
 | Sep 18 | 4 | A month of weather — list copies, `for`, comprehensions, `zip`, nested lists, slicing, tuples | [`lab04/`](lab04/) |
+| Sep 25 | 5 | Curving a quiz — writing functions, default and keyword arguments, `if`/`elif`/`else`, functions as arguments, `lambda` | [`lab05/`](lab05/) |
 
 More labs appear here through the semester.
 
 ## Getting the files
 
-**Clone the repository** (recommended):
+**Lab 1 sets this up with you step by step. Start there.** You clone this
+repository once, into a folder called `math170-yourname`, and connect it to a
+repository of your own.
+
+After that, every new lab arrives the same way. From inside `math170-yourname`:
 
 ```
-git clone https://github.com/jimena-martin-emory/math170-labs.git
+git pull upstream main
 ```
 
-Then run `git pull` in that folder whenever a new lab is posted.
-
-**Or download a ZIP** — click the green **Code** button above, then
-**Download ZIP**.
-
-Lab 1 sets this up with you step by step. Start there.
+That is the only way labs reach you — please do not download them as a ZIP.
+Pulling keeps your work and the course material in one folder with one history,
+and it is a habit worth building: it is how you will get code from other people
+for the rest of your time writing software.
 
 ## Submitting
 

@@ -101,7 +101,13 @@ as your GitHub account:
 ```
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
+git config --global pull.rebase false
 ```
+
+The third line tells Git what to do when you pull new labs while your own
+repository also has new commits: combine the two (a *merge*). Without it, a
+recent Git refuses to pull and stops with *"Need to specify how to reconcile
+divergent branches."*
 
 You only do this once per computer.
 
@@ -264,10 +270,13 @@ From inside your `math170-yourname` folder:
 
 ```
 git status                              # see what changed
-git add .                               # stage everything
+git add lab01/calculator.py             # stage the one file, by name
 git commit -m "Complete Lab 1"          # save a snapshot
 git push                                # send it to your repository
 ```
+
+Stage files **by name**, never with `git add .` — that sweeps in everything
+sitting in the folder, and anything you push stays in your repository's history.
 
 Refresh your repository page on GitHub — your work is there.
 
@@ -309,7 +318,7 @@ You may resubmit as many times as you like. The last submission counts.
 - [ ] GitHub account created
 - [ ] Python runs — `python --version` works in a terminal
 - [ ] VS Code working, with Microsoft's Python extension
-- [ ] Git installed and configured with your name and email
+- [ ] Git installed and configured with your name, email, and `pull.rebase false`
 - [ ] Your own repository created, with `origin` and `upstream` set
 - [ ] Gradescope shows **100 / 100** for Lab 01
 - [ ] Attendance sheet signed
@@ -326,6 +335,9 @@ Ask during lab. That is what today is for. The most common problems:
   *your* repository
 - **GitHub will not connect on Gradescope** — you opened Gradescope through
   Canvas; open gradescope.com directly instead
+- **`git pull` says "Need to specify how to reconcile divergent branches"** —
+  run `git config --global pull.rebase false` once, then pull again. If an
+  editor opens asking for a merge message, save and close it
 
 ## Try at home
 
