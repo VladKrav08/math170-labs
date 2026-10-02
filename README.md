@@ -14,6 +14,7 @@ week and follow the README inside it.
 | Sep 11 | 3 | Building a half-marathon plan — loops, Booleans, lists, round-off | [`lab03/`](lab03/) |
 | Sep 18 | 4 | A month of weather — list copies, `for`, comprehensions, `zip`, nested lists, slicing, tuples | [`lab04/`](lab04/) |
 | Sep 25 | 5 | Curving a quiz — writing functions, default and keyword arguments, `if`/`elif`/`else`, functions as arguments, `lambda` | [`lab05/`](lab05/) |
+| Oct 2 | 6 | A table for any formula — test functions, `pytest`, command line arguments, `eval` | [`lab06/`](lab06/) |
 
 More labs appear here through the semester.
 
