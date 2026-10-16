@@ -16,6 +16,7 @@ week and follow the README inside it.
 | Sep 25 | 5 | Curving a quiz — writing functions, default and keyword arguments, `if`/`elif`/`else`, functions as arguments, `lambda` | [`lab05/`](lab05/) |
 | Oct 2 | 6 | A table for any formula — test functions, `pytest`, command line arguments, `eval` | [`lab06/`](lab06/) |
 | Oct 9 | 7 | A cooling cup of coffee — reading and writing files, `split`, `'w'` vs `'a'` (online) | [`lab07/`](lab07/) |
+| Oct 16 | 8 | Measuring g with a pendulum — `try`/`except`, catching named errors, `except ... as e`, `raise` | [`lab08/`](lab08/) |
 
 More labs appear here through the semester.
 
