@@ -17,6 +17,7 @@ week and follow the README inside it.
 | Oct 2 | 6 | A table for any formula — test functions, `pytest`, command line arguments, `eval` | [`lab06/`](lab06/) |
 | Oct 9 | 7 | A cooling cup of coffee — reading and writing files, `split`, `'w'` vs `'a'` (online) | [`lab07/`](lab07/) |
 | Oct 16 | 8 | Measuring g with a pendulum — `try`/`except`, catching named errors, `except ... as e`, `raise` | [`lab08/`](lab08/) |
+| Oct 23 | 9 | Hours of daylight — NumPy arrays, `linspace`, `zeros`, vectorized functions, plotting with Matplotlib | [`lab09/`](lab09/) |
 
 More labs appear here through the semester.
 
