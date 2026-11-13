@@ -19,6 +19,8 @@ week and follow the README inside it.
 | Oct 16 | 8 | Measuring g with a pendulum — `try`/`except`, catching named errors, `except ... as e`, `raise` | [`lab08/`](lab08/) |
 | Oct 23 | 9 | Hours of daylight — NumPy arrays, `linspace`, `zeros`, vectorized functions, plotting with Matplotlib | [`lab09/`](lab09/) |
 | Oct 30 | 10 | Heat in a metal rod — `np.where`, slicing and `copy`, 2D arrays, Boolean indexing, watching it as an animation | [`lab10/`](lab10/) |
+| Nov 6 | 11 | Morse code — dictionaries, reading a file into a dictionary, flipping a dictionary, `upper`, `split`, `join` | [`lab11/`](lab11/) |
+| Nov 13 | 12 | A Thanksgiving kitchen — writing classes, constructors and methods, protected attributes, `__add__`, `__call__`, a test function for a class | [`lab12/`](lab12/) |
 
 More labs appear here through the semester.
 
