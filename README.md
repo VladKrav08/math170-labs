@@ -21,6 +21,7 @@ week and follow the README inside it.
 | Oct 30 | 10 | Heat in a metal rod — `np.where`, slicing and `copy`, 2D arrays, Boolean indexing, watching it as an animation | [`lab10/`](lab10/) |
 | Nov 6 | 11 | Morse code — dictionaries, reading a file into a dictionary, flipping a dictionary, `upper`, `split`, `join` | [`lab11/`](lab11/) |
 | Nov 13 | 12 | A Thanksgiving kitchen — writing classes, constructors and methods, protected attributes, `__add__`, `__call__`, a test function for a class | [`lab12/`](lab12/) |
+| Nov 20 | 13 | How fast are the days getting shorter? — inheritance, `super()`, a subclass of a subclass, a method every subclass inherits, testing a family of classes | [`lab13/`](lab13/) |
 
 More labs appear here through the semester.
 
